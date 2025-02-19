@@ -2,7 +2,7 @@ import React from "react";
 import BarChart from "./BarChart";
 import KpChart from "./KpChart";
 import CircleChart from "./CircleChart";
-import '../index.css';
+import '/index.css';
 
 const Dashboard: React.FC = () => {
   return (
